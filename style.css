@@ -1,0 +1,57 @@
+.navbar-brand{
+    color: rgb(80, 141, 255);
+}
+.seksyen1{
+    background-color: rgb(121, 145, 218);
+    padding: 7% 1% 7%;
+}
+.banner{
+    text-align: center;
+}
+.heading-Shoes{
+    color: rgb(155, 235, 201);
+}
+.heading-lynda{
+    color: rgb(226, 141, 141);
+}
+.tulisanPutih{
+    color: rgb(247, 230, 230);
+}
+.seksyen2{
+    background-color: rgb(197, 152, 248);
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+.tulisanPutih-why you should buy shoes from us{
+    color: rgb(219, 176, 119);
+}
+.icon{
+    color: rgb(223, 221, 124);
+    margin-bottom: 1rem;
+}
+.feature-box{
+    padding: 4.5%;
+}
+.seksyen4{
+    background-color: rgb(112, 210, 240);
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+
+
+/* seksyen 5 */
+.seksyen5{
+    background-color: rgb(184, 182, 165);
+    padding: 5% 20% 5%;
+    text-align: center;
+    color: white;   
+}
+.footer{
+    background-color: rgb(238, 196, 255);
+    padding: 2%;
+    text-align: center;
+}
+.media{
+    color: black;
+}
